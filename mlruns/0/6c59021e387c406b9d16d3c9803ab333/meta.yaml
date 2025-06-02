@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Chest-Cancer-Classification/mlruns/0/6c59021e387c406b9d16d3c9803ab333/artifacts
+end_time: 1748870942167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c59021e387c406b9d16d3c9803ab333
+run_name: big-kit-719
+run_uuid: 6c59021e387c406b9d16d3c9803ab333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748870932432
+status: 3
+tags: []
+user_id: NIRANJAN MURTHY V

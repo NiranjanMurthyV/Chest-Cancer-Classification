@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Chest-Cancer-Classification/mlruns/0/40da54f8110d4c919162645aeafb6087/artifacts
+end_time: 1748801340277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40da54f8110d4c919162645aeafb6087
+run_name: bemused-snail-257
+run_uuid: 40da54f8110d4c919162645aeafb6087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748801330729
+status: 3
+tags: []
+user_id: NIRANJAN MURTHY V
